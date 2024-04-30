@@ -14,4 +14,4 @@ db.php: Soubor pro připojení k databázi.
 functions.php: Soubor obsahující funkce využívané v projektu.
 index.php: Hlavní soubor projektu, který obsahuje HTML strukturu a logiku pro zobrazení webové stránky.
 README.md: Soubor obsahující popis projektu, jeho použití a instrukce pro instalaci a spuštění.
-https://cz.pornhub.com/view_video.php?viewkey=645805eec27d4
+
