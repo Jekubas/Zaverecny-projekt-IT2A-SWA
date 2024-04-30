@@ -7,6 +7,7 @@ css/: Adresář pro CSS soubory.
 style.css: CSS styly pro formátování webové stránky.
 js/: Adresář pro JavaScript soubory.
 script.js: JavaScript kód pro interaktivitu na stránce.
+negr
 images/: Adresář pro obrázky.
 background.jpg: Obrázek pro pozadí webové stránky.
 includes/: Adresář obsahující různé PHP soubory pro správu projektu.
