@@ -1,6 +1,6 @@
 # Zaverecny-projekt-IT2A-SWA
 Název projektu: Guess the Number
-Použité technologie: HTML - utvořeníá stránek, CSS - grafika stránky , PHP - funkčnost hry, JS - taky podpora hry,
+Použité technologie: HTML - utvoření stránek, CSS - grafika stránky , JS - funkčnost hry,
 
 assets/: Adresář, který obsahuje veškeré assety projektu.
 css/: Adresář pro CSS soubory.
