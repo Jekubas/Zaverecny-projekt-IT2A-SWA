@@ -1,5 +1,3 @@
-
-
 <html>
 <head>
     <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/970ace17e8fc372c809bf16d/script.js"></script>
@@ -15,11 +13,10 @@
 
 <style>
   body {
- position: relative; 
-  background-image: url("arsenal.png"); 
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-size: cover;
+background-image: url("https://www.arsenal.com/sites/default/files/styles/desktop_16x9/public/images/arsenal-logo-emirates-generic.png?itok=pS4lwLi-");
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size: cover;
 }
 
 h1 {
