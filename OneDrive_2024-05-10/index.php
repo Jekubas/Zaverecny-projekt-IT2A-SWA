@@ -1,5 +1,5 @@
 
-?>
+
 <html>
 <head>
     <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/970ace17e8fc372c809bf16d/script.js"></script>
