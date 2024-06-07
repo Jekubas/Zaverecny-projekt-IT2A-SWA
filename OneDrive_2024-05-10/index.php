@@ -13,7 +13,7 @@
 
 <style>
   body {
-background-image: url("https://www.arsenal.com/sites/default/files/styles/desktop_16x9/public/images/arsenal-logo-emirates-generic.png?itok=pS4lwLi-");
+background-image: url("arsenal.png");
 background-attachment: fixed;
 background-repeat: no-repeat;
 background-size: cover;
